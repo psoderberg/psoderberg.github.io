@@ -8,7 +8,7 @@
 
 
 ## Summary:
-Writing blogs on technical subjects is something that will help you solidify your learning and start getting integrated in the community. 
+Writing blogs on technical subjects is something that will help you solidify your learning and start getting integrated in the community.
 
 ## Release 0: Copy your blog template
 Create a new HTML file and use the date to name it `week2_technical.html`. Copy the code from your `blog_template.html`.
@@ -21,6 +21,8 @@ Research one of the following topics:
 - What are the differences between relative, absolute, and fixed positioning? #DBCRAFP
 - What does it mean to display inline vs inline blocks? #DBCIvIB
 
+http://dustwell.com/div-span-inline-block.html
+
 ## Release 2: Blog!
 Write a blog post that teaches others how and when to use each thing. There is no length requirement, but it should show off the knowledge you gained this week. You should show examples of code and screen shots to help teach others!
 
@@ -28,15 +30,15 @@ Write a blog post that teaches others how and when to use each thing. There is n
 
 
 ## Release 3: Publish
-Link to your post from `index.html` so people can navigate to your page from your site's index. 
+Link to your post from `index.html` so people can navigate to your page from your site's index.
 
 Make sure the index of your site is maintained, nice, and professional. This is your face in the online community, so make it nice!
 
 ## Release 4: Promote
 
-Now it's time to show off your work and share your knowledge with your cohortmates using Twitter! 
+Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
 
-Tweet your blog post using the hashtags associated with each topic. 
+Tweet your blog post using the hashtags associated with each topic.
 
 ## Release 5: Read
 

@@ -1,1 +1,31 @@
-/* include your css here */
+html {
+    font-family: Helvetica;
+}
+
+
+.header {width: 768px;
+        float: top;
+        padding-bottom: 50px;
+        border-bottom: 1px solid black;}
+
+.title {
+  float: left;
+}
+
+body {
+  padding-left: 20px;
+}
+.names {
+  float: right;
+}
+
+.content {margin-top: 50px;
+}
+
+section {
+  margin-top: 10px;
+  width: 768px;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 10px;
+}

@@ -20,9 +20,12 @@ Do some research into standard practices of web design, Reset CSS, Normalize CSS
 
 
 ## Release 1: Apply
-Download these [practice files](http://girldevelopit.github.io/gdi-core-intermediate-html-css/class1.zip). Unzip the folder into this (4-intermediate-html-css) directory. Do the following exercises using the files in the "practice" folder. After you are done, compare your work with the files in the "completed" folder. 
+Download these [practice files](http://girldevelopit.github.io/gdi-core-intermediate-html-css/class1.zip). Unzip the folder into this (4-intermediate-html-css) directory. Do the following exercises using the files in the "practice" folder. After you are done, compare your work with the files in the "completed" folder.
 
 - Add reset.css to your index.html file. What happens?
+
+All the styling gets removed.
+
 - Update the header links to jump to sections
 - Make links change color on hover
 - Change the font (@fontface) for elements on the site.
