@@ -1,0 +1,47 @@
+@media screen and (max-width: 600px) {
+
+.leftblock{
+    border: .1em solid;
+    border-radius: .5em;
+    padding: 1.5empt;
+    padding-bottom: 3em;
+    text-align: center;
+    font-size: 1em;
+    width: 90%;
+    position: fixed;}
+img{
+
+    width: 100%;
+    height:auto;
+}
+}
+
+h1{
+color:#000080;
+text-align: center;
+font-weight: bold;
+}
+.leftblock{
+    border: .1em solid;
+    border-radius: .5em;
+    padding: 1.5empt;
+    padding-bottom: 3em;
+    display: inline-block;
+    text-align: center;
+    font-size: 1em;
+    width: 20%;
+    position: fixed;
+}
+.main{
+    border: .1em solid;
+    border-radius: .5em;
+    padding: 1.5empt;
+    display: inline-block;
+    margin-left: 22%;
+    width:50%;}
+
+img{
+    display: inline-block;
+    width: 100%;
+    height:auto;
+}
