@@ -2,11 +2,12 @@
 html{ width: 95%}
 }
 p{
+  width: 95%;
   font-family: Garamond;
   font-size: 16pt;
 }
 img{
-  width: 480px;
+  width: 95%;
   height: auto;
 }
 }
