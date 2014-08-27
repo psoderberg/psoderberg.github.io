@@ -30,6 +30,9 @@ html {
 }
 .content {
 position: absolute;
+background-color: gray;
+padding: 1%;
+margin: 5%;
 top: 12%;
 left: 35%;
 }

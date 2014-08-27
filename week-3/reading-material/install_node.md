@@ -1,36 +1,8 @@
 # Node.js
 
-## Installing Node
-### Option 1: Install with Brew
-First install Homebrew if you don't have it. 
-
-```shell
-$ which brew #this checks to see where brew is in your path. If you have something here, you have brew installed and do not need to reinstall it. 
-
-$ xcode-select --install #You need this to install Homebrew
-
-$ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)" #This installs Homebrew
-
-```
-
-THEN, all you need to do to install node is: ```brew install node``` and you should be set. 
-
-### Option 2: Install from the web
-
-To install Node.js, visit [nodejs.org](http://nodejs.org/) and click the "install" button.  This should begin a download of the version appropriate for your operating system.  Once the download is complete, open the package and follow the instructions.
-
-When the installation has completed, open Terminal and execute ...
-
-```
-$ node -v
-```
-
-If Node.js installed correctly, you should see which version was installed on your machine (e.g., v0.10.21).
-
-
 ## Why Node? Read-Eval-Print-Loop (REPL)
 
-With Node.js installed, you have access to a [REPL similar to IRB](http://nodejs.org/api/repl.html) (Interactive Ruby Shell).  Open Terminal and execute ...
+With Node.js installed, you have access to a [REPL similar to IRB](http://nodejs.org/api/repl.html) (Interactive Ruby Shell).  If you have node installed, which you should from the setup instructions, open Terminal and execute ...
 
 ```
 $ node
@@ -82,3 +54,32 @@ This should output ...
 ```
 Greetings, Torey Hickman.
 ```
+
+## Installing Node (if you haven't already)
+### Option 1: Install with Brew
+First install Homebrew if you don't have it.
+
+```shell
+$ which brew #this checks to see where brew is in your path. If you have something here, you have brew installed and do not need to reinstall it.
+
+$ xcode-select --install #You need this to install Homebrew
+
+$ ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)" #This installs Homebrew
+
+```
+
+THEN, all you need to do to install node is: ```brew install node``` and you should be set.
+
+### Option 2: Install from the web
+
+To install Node.js, visit [nodejs.org](http://nodejs.org/) and click the "install" button.  This should begin a download of the version appropriate for your operating system.  Once the download is complete, open the package and follow the instructions.
+
+When the installation has completed, open Terminal and execute ...
+
+```
+$ node -v
+```
+
+If Node.js installed correctly, you should see which version was installed on your machine (e.g., v0.10.21).
+
+

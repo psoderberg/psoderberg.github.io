@@ -1,17 +1,16 @@
 # Introduction to JavaScript
 
-Please do not start week 3. We will release it with changes at least by the Friday before week 3 begins.
+<!-- Please do not start week 3. We will release it with changes at least by the Friday before week 3 begins.
+ -->
 
-
-<!-- JavaScript is known as the "language of the web." It is a powerful object-oriented language (Ruby is as well). It is light-weight and can communicate with the browser. This week, we will introduce you to basic JavaScript syntax; we want you to feel comfortable with simple variables and functions.
+JavaScript is known as the "language of the web." It is a powerful object-oriented language (Ruby is as well). It is light-weight and can communicate with the browser. This week, we will introduce you to basic JavaScript syntax; we want you to feel comfortable with simple variables and functions.
 
 You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't worry if you feel like you will forget everything. You will have the chance to review in the last two weeks of Phase 0 and the weekend before you begin Phase 2. Moreover, professional programmers look up information and syntax all the time. They don't have everything memorized either, so think of this as an introduction. The more you use JavaScript the more you will remember. For our purposes here, we want you to learn basics so that you can easily re-learn them later.
 
 **You have an asynchronous group challenge this week. Take a look at it early so you don't get blind-sided.**
 
 ## Before you begin:
-- You should have installed Node.js already. If you haven't please revisit the [computer set up](../week-1/1-computer-setup) instructions to install it.
-- You may choose to read through [JavaScript Reading Material](reading-material) before starting the challenges.
+- You will be using node.js to run JavaScript through the terminal. Please read [install node](reading-material/install_node.md) to read about why we are using node.
 
 ## Challenges
 1. [Code Combat](1-code-combat)
@@ -22,7 +21,7 @@ You will not begin using JavaScript until Phase 2 in Dev Bootcamp, but don't wor
 6. [Group Project](6-group-project) **Check this out early!**
 7. [Technical Blog](7-technical-blog.md)
 8. [Cultural Blog](8-cultural-blog.md)
-9. [GPS 1.2](9-gps1.2): **DO NOT READ UNTIL YOUR GPS SESSION!**
+9. [GPS 1.2](9-gps1.2): This is a JavaScript challenge - so be prepared! **DO NOT READ UNTIL YOUR GPS SESSION!**
 
 ## Remember your Unit Expectations!
 - Pair at least twice this week.  *You need to pair 4 times on your own this unit*
@@ -40,8 +39,9 @@ You need to submit your work on the Unit 1, Week 3 submission form [apply.devboo
 
 ## Resources
 - [Mozilla Developer Network - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Dev Bootcamp's JavaScript Lab Material](reading-material/javascript_intro_lab)
+- [JavaScript Object Types](reading-material/object_types.md)
 - [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) *A JavaScript reference guide for those new to programming*
 - [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) *This resource is better for students with some familiarity with JavaScript who want to know more about style and syntax.*
-- [JavaScript 'Object' Objects](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/) Understanding this well will be very beneficial.
+- [JavaScript 'Object' Objects](http://www.sitepoint.com/back-to-basics-javascript-object-syntax/)
 
- -->

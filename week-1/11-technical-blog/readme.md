@@ -38,7 +38,7 @@ Write a blog post analyzing the three sites in terms of user experience and desi
 
 Don't forget to push your changes to make them live on your github.io site. Double-check that you can see your page when you visit:
 
-www.[USERNAME].github.io/blog-posts/t1-compare-websites.html
+http://[USERNAME].github.io/blog-posts/t1-compare-websites.html
 
 ## Release 4: Reflect
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub in the phase-0-unit-1 repository.

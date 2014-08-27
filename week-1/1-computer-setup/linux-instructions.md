@@ -122,6 +122,8 @@ type sqlite3 -version to test.
 ## Release 13: Install Postgres
 Type the following commands one at a time:
 
+NOTE: If you have trouble installing postgres, don't worry about it. You won't need it until Phase 2. We wanted to have it set up in advance when your path was all sqeakly clean and wonderful, but if you have trouble, just move on.
+
 ```shell
 sudo apt-get install postgresql
 ```

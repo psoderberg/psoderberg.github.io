@@ -1,4 +1,4 @@
-// I worked on this challenge: [by myself, with: ]
+// I worked on this challenge by myself.
 
 
 // There is a section below where you will write your code.
@@ -18,22 +18,29 @@ var terah = {
 
 // __________________________________________
 // Write your code below.
+var adam = {
+name: "Adam",
+spouse: terah,
+children: {},
+}
 
-
-
-
-
+terah.spouse = adam;
+terah.weight = 125;
+delete terah.eyeColor;
+terah.children = {};
+terah.children.carson = {};
+terah.children.carson.name = "Carson";
+terah.children.carter = {};
+terah.children.carter.name = "Carter";
+terah.children.colton = {};
+terah.children.colton.name = "Colton";
+adam.children = terah.children;
 
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
-// 
+This was a good continuation of learning test-driven development.  Again, I edited out my psuedocode as I went along and refactored.  I know this is dangerous in many ways.  At first I was editing as I went along, trying to combine all the statements & properties I could.  This proved immensely frustrating.  Then I stepped back, and went about it bird by bird.
 
 
 // __________________________________________

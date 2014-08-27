@@ -30,7 +30,11 @@ Take the time to skim the other chapters. You'll be diving into JavaScript at a 
 ## Release 1: Practice
 Complete the [dev_tools_practice.md](dev_tools_practice.md) activity.
 
+<<<<<<< HEAD
 Take a screenshot of your Code School points (they appear on the right of your Code School profile page), add the file to your imgs directory in the `1_Chrome_Dev_Tools` directory, and include the image in the [dev_tools_practice.md](dev_tools_practice.md) file.
+=======
+Take a screenshot of your Code School points (they appear on the right of your Code School profile page), add the file to your imgs directory in the `3-chrome-devtools` directory, and include the image in the [dev_tools_practice.md](dev_tools_practice.md) file.  
+>>>>>>> upstream/master
 
 ## Release 2: Experiment
 

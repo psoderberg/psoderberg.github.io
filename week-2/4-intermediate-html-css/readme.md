@@ -20,7 +20,11 @@ Do some research into standard practices of web design, Reset CSS, Normalize CSS
 
 
 ## Release 1: Apply
+<<<<<<< HEAD
 Download these [practice files](http://girldevelopit.github.io/gdi-core-intermediate-html-css/class1.zip). Unzip the folder into this (4-intermediate-html-css) directory. Do the following exercises using the files in the "practice" folder. After you are done, compare your work with the files in the "completed" folder.
+=======
+Download these [practice files](http://girldevelopit.github.io/gdi-core-intermediate-html-css/class1.zip). Move the unzipped files into this (4-intermediate-html-css) directory. Do the following exercises using the files in the "practice" folder. After you are done, compare your work with the files in the "completed" folder. 
+>>>>>>> upstream/master
 
 - Add reset.css to your index.html file. What happens?
 
@@ -28,14 +32,14 @@ All the styling gets removed.
 
 - Update the header links to jump to sections
 - Make links change color on hover
-- Change the font (@fontface) for elements on the site.
+- Change the font for elements on the site. You can use @fontface or import fonts from other sites like [Google fonts](https://www.google.com/fonts). 
 - Change some elements to semantic HTML5 elements (i.e. header, section, etc)
 
 ## Release 2: Reflect
 Answer the above questions in your [my_reflection.md](my_reflection.md) file.
 
 ## Release 3: Commit and push your changes!
-Make sure you can see all of your changes on your github.io site!
+Push your changes to your phase-0-unit-1 repository. 
 
 ## Release 4: Pseudo Elements (Optional)
 ### a. Learn

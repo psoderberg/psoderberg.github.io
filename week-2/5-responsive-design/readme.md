@@ -5,7 +5,7 @@
 ## Learning Competencies
 - Describe responsive design
 - Determine good and bad practices in responsive design
-- Convert a small site to become responsive responsive
+- Convert a small site to responsive design
 - Compare responsive design and fluid layouts
 
 

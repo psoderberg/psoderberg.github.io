@@ -4,51 +4,57 @@
 
 **DO NOT LOOK AT THIS CHALLENGE UNTIL YOUR FIRST GUIDED PAIRING SESSION!!**
 
-#### Learning Competencies
+## Learning Competencies
   - Use HTML tags to place content on a website
   - Apply CSS to position elements on an HTML page
   - Compare different HTML tags to one another
   - Examine pair-programming concepts
 
-#### Summary
+## Summary
   Welcome to your first Guided Pairing Session (GPS!)
   We are excited to have you in Phase 0 and to work with
   you to get you prepared for an exciting time at DBC. 
 
   This GPS is designed to help you examine pair programming and the roles of driver and 
-  navigator. 
+  navigator. Your goal is to design and build a single-page website that
+  introduces the concept of pair programming!
   
   **Since this is your first pairing session, it is important
   to have a good check-in (so don't forget!).**
 
-## GPS-Specific Instructions
-  - After you finish this exercise, copy and paste your collaborative code
-    into a local HTML and CSS document and push this new page up to your
-    github.io website to publish it online - and link to it from the index of your site...Also add the code to the phase-0-unit-1 repo in the pre-made files.
-  - You will be directed to Stypi.com, where your instructor
-     will have a stypi file ready for you. Because we cannot actually link 
-     a stylesheet to an HTML page in stypi, we will be placing CSS 
-     between the `<style>` tags. It will be your job to put the correct 
-     material in the correct file after the session. 
-     **This is not good practice, we are only doing it so you can preview your page using stypi.**
-  - Now you are ready to begin! Your goal is to design a website that
-     introduces the concept of pair programming!  (You get to figure out how to 
-     present it on the page) 
-
 ## Release 0: Wireframe the site
-Discuss how you want the page to look. Draw a wireframe or use a wireframing tool with your pair. It doesn't have to be perfect, but get a rough idea of how you want the site to look
+Discuss how you want the page to look. Draw a wireframe or use a wireframing tool with your pair. It doesn't have to be perfect, but get a rough idea of how you want the site to look. 
 
-## Release 1: Start with HTML
-Include: a title and your names on your site. Style it based on your wireframe. 
+If you want to use a collaborative drawing site, you can use [flockdraw](http://flockdraw.com). You don't need an account, and you can invite people by sharing the URL. You can also use any other wireframing tool and share your screen. (Or use a pen and paper and share)
+
+You'll need sections for:
+- Title
+- Your names
+- What is pair programming?
+- Why is pair programming important to DBC?
+- Compare Driver and Navigator
+- Anything else you want!
+
+## Release 1: HTML
+
+Open a stypi file (only one person needs to do this) and name it with a `.html` extension (You will be able to see it in stypi by either hovering or clicking on the "eye" in the top right of the navigation bar). Share the URL with your pair and guide. 
+
+Based on your wireframe, add a skeleton for each section. 
+
+Be sure to include a link to the phase-0-unit-1/week-2/8-gps1.1/gps.1.1.css stylesheet in your html! It won't work now, but you will be thankful later when you are copying and pasting the html and css into the separate files. 
+
 
 ## Release 2: Discuss Pair Programming
-Together, discuss and describe why you think pair-programming is important to DBC.
-Code up what you've discussed according to the wireframe you made. Also discuss what pairing means and define driver and navigator. You will want to compare these on the website.
+Discuss the following topics, and add content for each section in the skeleton. Time-box this section to about 10 minutes or so.
+
+- What is pair programming?
+- Why is pair programming important to DBC?
+- Compare Driver and Navigator
 
 ## Release 3: Dress it up! 
-Use CSS to make it look nice. Include pictures, outside fonts, etc. 
+Use CSS to make it look nice. Include pictures, outside fonts, etc. You will need to add CSS inside the `<style>` tags because stypi won't accept an actual link to an external stylesheet. This isn't good practice though. Why do you think it's not good practice?
 
-## Release 4: Reflect with your pair. 
+## Release 4: Reflect 
 What was it like to pair for the first time? Did you enjoy it? What worked? What didn't work? Add your reflection to your page and style it as well. 
 
 ## Release 5: Copy, commit, and push

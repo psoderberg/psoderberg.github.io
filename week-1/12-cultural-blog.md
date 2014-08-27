@@ -24,7 +24,7 @@ Talk about what came up for you and anything you want in addition to the questio
 ## Release 3: Commit and push
 Don't forget to push your changes to make them live on your github.io site. Double-check that you can see your page when you visit:
 
-www.[USERNAME].github.io/blog-posts/c1-chefs-kitchen.html
+http://[USERNAME].github.io/blog-posts/c1-chefs-kitchen.html
 
 ## Release 4: Promote
 Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!

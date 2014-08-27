@@ -123,6 +123,8 @@ To overwride your system copy of SQLite, we need to type an additional command:
 ## Release 13: Install Postgres
 Type the following commands one at a time:
 
+NOTE: If you have trouble installing postgres, don't worry about it. You won't need it until Phase 2. We wanted to have it set up in advance when your path was all sqeakly clean and wonderful, but if you have trouble, just move on.
+
 ```shell
 brew install postgres
 mkdir -p $HOME/Library/LaunchAgents

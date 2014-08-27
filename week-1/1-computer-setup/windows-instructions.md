@@ -155,6 +155,8 @@ psql -V
 
 make sure its a capital V, this prints the version and exits. If you get into psql command line hit CTRL + D to exit.
 
+NOTE: If you have trouble installing postgres, don't worry about it. You won't need it until Phase 2. We wanted to have it set up in advance when your path was all sqeakly clean and wonderful, but if you have trouble, just move on.
+
 ## Release 8: Thats all
 
 You now have a set up environment for development! If you are interested in this kind of thing, there is a whole job created around automating server and terminal set up. It is called DevOps, they do lots of things to make software development more efficient. Check it out! [devopsreactions](http://devopsreactions.tumblr.com/)

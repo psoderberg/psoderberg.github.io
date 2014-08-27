@@ -63,6 +63,8 @@ You will be using this site to promote yourself when you finish Dev Bootcamp, so
   - Your projects
   - Anything else you want to include
 
+**PLEASE NOTE:** You will not actually be coding up your index in week 1, we leave that for next week, so don't worry about making it any time this week. 
+
 ## Release 4: Add your wireframes to your reflection.
 
 Now that you have your wireframes designed, you'll want to display them in your [my_reflection.md](my_reflection.md) file.
