@@ -1,6 +1,6 @@
 ## 5. Web Basics Assignment and Reflection
 
-##Part 1: Describe the following and give examples.
+##Part 1: Based on the resources you looked at, describe the terms you learned about.
 
 - Browser:
 - DNS:

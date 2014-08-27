@@ -4,8 +4,6 @@
 
 This week is quite possibly the most difficult since you will be getting acclimated to Phase 0 as well as learning completely new technologies (git, HTML, and CSS).
 
-Once you feel comfortable with the expecations for Phase 0, you can get started with the week's challenges. You should go through each directory (folder) listed below and complete the challenges and reflections in each.
-
 Please keep track of how much time you are spending on Phase 0 challenges, we'll ask you for this information in your weekly submission forms to gauge whether we are giving too much, the right amount, or not enough work each week.
 
 When you have questions, are confused, or need help, please post on the Google+ community. Staff and students will post responses. You should never feel alone and stuck during Phase 0. Please reach out to us at phase0@devbootcamp.com if you do.

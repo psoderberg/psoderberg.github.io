@@ -16,7 +16,9 @@ You will be required to work with others in your career as a developer, but you 
 Most of this challenge will probably need to be done between Thursday and Sunday (so you feel comfortable with JavaScript before hand). Email your group to decide on a potential schedule. 
 
 **Notes on this challenge**
-If you are the first person, reach out to your accountability group to let them know when they should expect your solution. If you can't complete it by the middle of the week (Wed), the second person should be defaulted to the first person role, unless you are all in agreement to do it on a delayed schedule (as long as it's all in by Sunday). If you have trouble getting into contact with people in your group, please contact the phase0@devbootcamp.com to inform us. It's really important that you have the participation of each person. See the graphics below for help knowing who you need to send your files to depending on the size of your accountability group. **Do NOT look at the tests if you are not person 1!**
+ - If you are the first person, reach out to your accountability group to let them know when they should expect your solution. If you can't complete it by the middle of the week (Wed), the second person should be defaulted to the first person role, unless you are all in agreement to do it on a delayed schedule (as long as it's all in by Sunday). 
+ - If you have trouble getting into contact with people in your group, please contact the phase0@devbootcamp.com to inform us. It's really important that you have the participation of each person. See the graphics below for help knowing who you need to send your files to depending on the size of your accountability group. **Do NOT look at the tests if you are not person 1!
+ - If you have a three person group, follow the graphic to see who should do which roles. 
 
 ## Release 0: Person 1 
 ### Translate tests into user stories
@@ -73,7 +75,7 @@ In the reflection section of your formerly named 'my_solution.js` file, reflect 
 - Was your group successful in passing the tests? 
 - What did you learn about writing user stories, pseudocoding, writing code, refactoring, etc.?
 
-
+![3-person](/week-3/imgs/3-person.jpg)<br><br><br>
 ![4_person.jpg](/week-3/imgs/4_person.jpg)<br><br><br>
 ![5_person.jpg](/week-3/imgs/5_person.jpg)<br><br><br>
 <!-- ![6_person.jpg](/week_3/imgs/6_person.jpg)<br><br><br> -->

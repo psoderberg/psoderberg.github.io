@@ -45,7 +45,7 @@ Reconsider the wireframe you created for your index.html in [week 1](../../week-
 While you're at it, you should also make a basic wireframe for the other pages on your site including, but not limited to pages for:
  - About me
  - Projects
- - blog-posts/index
+ - blog-posts/index.html (to list all of your blog posts)
  - Any other page your site needs
 
 These wireframes should basically be your site map. 

@@ -6,7 +6,7 @@
 - Compare websites to one another to discuss the pros and cons of their approaches
 
 ## Summary
-In the same way that professors and graduate students are required to contribute through publications, developers are expected to make contributions to their field through blog posts, presentations to their peers, and forums like Stack Overflow. In Phase 0, you will start your contributions by blogging about cultural and technical topics that correspond to the week's topics.
+In the same way that professors and graduate students are required to contribute through publications, developers are expected to make contributions to their field through blog posts, presentations to their peers, and forums like Stack Overflow. In Phase 0, you will start your contributions by blogging about cultural and technical topics that correspond to the week's topics. While these can easily turn into a rabbit hole, we encourage you to time-box these blog posts to an hour (or an 1.5 hours max).
 
 ## Releases
 
@@ -33,12 +33,13 @@ Consider the design of each site by asking yourself:
  - Does the site sell anything? If so, have you purchased any of it? Why or why not?
 
 ## Release 3: Blog it
-
 Write a blog post analyzing the three sites in terms of user experience and design.
 
 Don't forget to push your changes to make them live on your github.io site. Double-check that you can see your page when you visit:
 
 http://[USERNAME].github.io/blog-posts/t1-compare-websites.html
+
+Next week you will add the link to this post to your blog-posts/index.html page, but that hasn't been made yet.
 
 ## Release 4: Reflect
 On your local `phase-0-unit-1` repo, edit the [my_reflection.md](my_reflection.md) file associated with this challenge. Commit your changes and save them to GitHub in the phase-0-unit-1 repository.
@@ -50,6 +51,3 @@ Tweet your blog post using #DBCDesign
 
 We are using hashtags to make your posts searchable and last longer! Don't forget the hashtag!
 
-## Release 6: Read
-
-Read at least one post another student wrote. Give the author A.S.K (Actionable, specific, and kind) feedback as an issue on their repo or a tweet!

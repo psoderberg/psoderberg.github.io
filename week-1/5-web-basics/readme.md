@@ -14,6 +14,7 @@
 ## Release 0: Learn
 
 #### Web Concepts
+Select two of these resources and use the knowledge you learn to add definitions on the my_reflection file. You only need to add definitions to the topics you learned about.
 
 * Watch [How the Internet works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
 * Read: Web concepts -- [Internet vs. Web](http://skillcrush.com/2012/08/19/the-internet-vs-the-web/), [Web Browser](http://skillcrush.com/2012/10/01/web-browsers/), [Web Server](http://skillcrush.com/2012/07/03/web-server-2/)
@@ -24,8 +25,7 @@
 
 
 ## Release 1: Create a web page
-
-Now let's put that knowledge to work!  We will be using [Sublime Text](http://www.sublimetext.com/) as our [text editor](http://skillcrush.com/2012/09/10/text-editor/).  Review the [Perfect Workflow in Sublime Text](http://code.tutsplus.com/articles/perfect-workflow-in-sublime-text-free-course--net-27293) if you need a refresher on how to write code using Sublime.
+Now let's put that knowledge to work!  We will be using [Sublime Text](http://www.sublimetext.com/) as our [text editor](http://skillcrush.com/2012/09/10/text-editor/). Review the [Perfect Workflow in Sublime Text](http://code.tutsplus.com/articles/perfect-workflow-in-sublime-text-free-course--net-27293) if you need a refresher on how to write code using Sublime.
 
 * **Open a new file in Sublime**
 * Save the file as `index.html` in the **same directory as your copy of [USERNAME].github.io**
@@ -64,14 +64,13 @@ You can also see the new index.html file in your GitHub repository!
 
 ![GitHub commit](../imgs/github-page2.jpg)
 
-
-
 #### [AMAZING!](http://www.youtube.com/watch?v=ewfIvKbuRUg)
 
 ## Release 4: Web Concepts
 Complete Part 1 (web concepts assignment) in the [my_reflection.md](my_reflection.md) file.
 
 ## Release 5: Reflection
+Reflect on your learning by editing Part 2 of the [my_reflection.md](my_reflection.md) file associated with this challenge.
 
-Reflect on your learning by editing Part 2 of the [my_reflection.md](my_reflection.md) file associated with this challenge. Then commit and push your changes to your remote repository! Make sure you can see the changes on GitHub!
-
+## Release 6: Push
+Then commit and push your changes to your remote repository! Make sure you can see the changes on GitHub!
