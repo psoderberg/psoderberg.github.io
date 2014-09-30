@@ -6,50 +6,44 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 30 Sep 2014 14:40:32 -0500</pubDate>
-    <lastBuildDate>Tue, 30 Sep 2014 14:40:32 -0500</lastBuildDate>
+    <pubDate>Tue, 30 Sep 2014 14:58:41 -0500</pubDate>
+    <lastBuildDate>Tue, 30 Sep 2014 14:58:41 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Week 8 Tb</title>
-        <description>
-&lt;hr /&gt;
-&lt;p&gt;layout: post
-title:  “Week 8 Technical Blog - What is Rails?”
-date:   2014-09-28 04:21:04
-categories: DBC Blog
-—
-What is Rails?
+        <title>Week 8 Technical Blog - What is Rails?</title>
+        <description>&lt;p&gt;What is Rails?
 Since I’ll be spending a lot of time with Rails in the near future I thought it made sense for me to get acquainted with Ruby on Rails.  Affectionately called, Rails, it is a wep application development framework.  A framework allows a programmer to build web applications without essentially reinventing the wheel every time.  Rails, like other frameworks, inlcludes conventions and templates that allow more complex things to be developed in a given time period than might be possible without them.&lt;/p&gt;
 
 &lt;p&gt;One of its strengths is RubyGems, which allows external
 or shared packages to be installed to extend the capabilities that Ruby on Rails ships with. This can prove to be an issue at huge scales, since this doesn’t permit the same performance that some other options offer.  Even so, many household names that began as Rails sites have migrated backend work to more efficient frameworks while keeping the ruby front end.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 28 Sep 2014 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/2014/09/28/week-8-tb.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2014/09/28/week-8-tb.html</guid>
+        <pubDate>Sat, 27 Sep 2014 23:21:04 -0500</pubDate>
+        <link>http://yourdomain.com/dbc/blog/2014/09/27/week-8-tb.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/dbc/blog/2014/09/27/week-8-tb.html</guid>
         
+        
+        <category>dbc</category>
+        
+        <category>blog</category>
         
       </item>
     
       <item>
-        <title>Week 7 Tb</title>
-        <description>
-&lt;hr /&gt;
-&lt;p&gt;layout: post
-title:  “Week 7 Technical Blog - Databases”
-date:   2014-09-23 04:21:04
-categories: DBC Blog
-—
-Having spent considerable time in my previous job working with city records in databases of varying levels of sophistication, I am excited to get better at bending databases to my will.  I can think of one MS Access database that had snowballed over a decade to the point where it took minutes to return a query.  On the other hand, there were things run by Oracle that were well indexed and could return queries from an exponentially larger dataset in seconds.
+        <title>Week 7 Technical Blog - Databases</title>
+        <description>&lt;p&gt;Having spent considerable time in my previous job working with city records in databases of varying levels of sophistication, I am excited to get better at bending databases to my will.  I can think of one MS Access database that had snowballed over a decade to the point where it took minutes to return a query.  On the other hand, there were things run by Oracle that were well indexed and could return queries from an exponentially larger dataset in seconds.
 I’m more excited by the possibilities of SQL, but if it’s not necessary then naturally it makes sense to use NOSql options like MongoDB
 In terms of optimization, many of the broader principles of other areas of CS apply.  Don’t make the computer think harder than it has to – don’t use “HAVING” unless you’ve already filterd the DB.  Don’t ask for more than you need to – don’t use SELECT * to return everything (and think about it) when you don’t need all columns or enumerate each column to save processing time.
 And having learned the lesson of Bobby Tables, I’m eager to learn more about sanitizing my data inputs.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 23 Sep 2014 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/2014/09/23/week-7-tb.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2014/09/23/week-7-tb.html</guid>
+        <pubDate>Mon, 22 Sep 2014 23:21:04 -0500</pubDate>
+        <link>http://yourdomain.com/dbc/blog/2014/09/22/week-7-tb.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/dbc/blog/2014/09/22/week-7-tb.html</guid>
         
+        
+        <category>dbc</category>
+        
+        <category>blog</category>
         
       </item>
     
@@ -98,15 +92,8 @@ This was defined by scholars Claude Steele and Joshua Aronson in a widely-cited 
       </item>
     
       <item>
-        <title>Week 6 Techblog</title>
-        <description>
-&lt;hr /&gt;
-&lt;p&gt;layout: post
-title:  “Week 6 Technical Blog - Classes vs Modules”
-date:   2014-09-17 04:21:04
-categories: DBC Blog
-—
-Classes vs Modules
+        <title>Week 6 Technical Blog - Classes vs Modules</title>
+        <description>&lt;p&gt;Classes vs Modules
 What are these? How do they work?&lt;/p&gt;
 
 &lt;p&gt;Classes
@@ -117,10 +104,14 @@ Ruby is object-oriented and has single inheritance.  This means that when a clas
 &lt;p&gt;Modules
  A module, from ruby-docs, is a collection of methods and constants.  What’s missing here is instances.  Some builtin modules include Math and Enumerables, which are collections of methods. These can be implemented using require in the or include in a class&lt;/p&gt;
 </description>
-        <pubDate>Wed, 17 Sep 2014 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/2014/09/17/week-6-techblog.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2014/09/17/week-6-techblog.html</guid>
+        <pubDate>Tue, 16 Sep 2014 23:21:04 -0500</pubDate>
+        <link>http://yourdomain.com/dbc/blog/2014/09/16/week-6-techblog.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/dbc/blog/2014/09/16/week-6-techblog.html</guid>
         
+        
+        <category>dbc</category>
+        
+        <category>blog</category>
         
       </item>
     
