@@ -1,38 +1,23 @@
-<!DOCTYPE HTML>
-<html>
-  <head>
-    <link rel="stylesheet" type="text/css" href="index-stylesheet.css"/>
-    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
-    <title> Peter Soderberg</title>
-  </head>
-  <img id="bkg" src="sky_back.png"?>
-  <div id="logo">
-    <IMG SRC="PTS-Logo.png">
-  </div>
-  <div id="links">
-    <il><a href="about.html">About Me</a></il>
-    <il><a href="blog.html">Blog</a></il>
-    <il><a href="projects.html">Projects</a></il>
-  </div>
+---
+layout: default
+---
 
-  <div id="contacts">
-    <h3>Contact</H3>
-      <ul>
-        <il><a href="mailto:PTSoderberg@gmail.com">PTSoderberg@gmail.com</a></il>
-        <br>
-        <il><a href="https://twitter.com/ptsoderberg">@PTSoderberg</a></il>
-        <br>
-      </ul>
-  </div>
+<div class="home">
 
+  <h1 class="page-heading">Posts</h1>
 
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
-  <body>
-    <div class="content">
-    <p>
-      Hello DBC!
-    </p>
-  </div>
-  </body>
-</html>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
